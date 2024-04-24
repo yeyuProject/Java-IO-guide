@@ -1,4 +1,4 @@
-package com.yeyu.javaioguide.test;
+package com.yeyu.javaioguide.test.model1;
 
 import java.io.*;
 import java.net.Socket;
