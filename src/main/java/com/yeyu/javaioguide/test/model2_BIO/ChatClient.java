@@ -1,4 +1,4 @@
-package com.yeyu.javaioguide.test.model2;
+package com.yeyu.javaioguide.test.model2_BIO;
 
 import java.io.*;
 import java.net.Socket;

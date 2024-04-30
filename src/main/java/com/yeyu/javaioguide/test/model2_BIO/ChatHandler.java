@@ -1,4 +1,4 @@
-package com.yeyu.javaioguide.test.model2;
+package com.yeyu.javaioguide.test.model2_BIO;
 
 import java.io.BufferedReader;
 import java.io.IOException;
